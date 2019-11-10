@@ -13,7 +13,7 @@ This algorithm is implemented in `Slp::learn` method. The `classify` method is
 used to classify test set samples.
 
 You can find an usage example [here](src/main/java/it/lparolari/unipd/ml/slp/Main.java). However the `Slp` class can be used as follows:
-```
+```java
 // dataTraining, dataTest are ReadInput objects (data readed from file).
 
 // get read data
